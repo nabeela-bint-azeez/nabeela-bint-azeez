@@ -178,27 +178,6 @@ IDEAL College for Advanced Studies, Kadakassery
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeela-bint-azeez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabeela-bint-azeez&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nabeela-bint-azeez&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nabeela-bint-azeez&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ## 📚 Certifications & Activities
 
 🏅 **Robotic Workshop – QBOTIX 1.9**
