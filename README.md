@@ -66,6 +66,33 @@ I'm a **Computer Science professional** passionate about **Data Science, Machine
 
 ---
 
+
+## 💼 Experience
+
+### 📊 Data Science Intern
+
+**SOS School of Skills, Calicut**
+`Currently`
+
+Working towards developing practical skills in **Data Science, Python, and Machine Learning**.
+
+### 🐍 Python Full Stack Developer
+
+**Hostcarts Digital**
+`May 2024 – January 2025`
+
+Developed web applications and customized ERP solutions using **Python, Django, HTML, CSS, JavaScript, and Bootstrap**.
+
+### 🎨 Front-End Developer Intern
+
+**AllPro TechLabs**
+`December 2023 – April 2024`
+
+Worked on UI development using **React.js, Bootstrap, and JavaScript**.
+
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -144,31 +171,6 @@ Experience building responsive web applications and user interfaces using modern
 </td>
 </tr>
 </table>
-
----
-
-## 💼 Experience
-
-### 📊 Data Science Intern
-
-**SOS School of Skills, Calicut**
-`Currently`
-
-Working towards developing practical skills in **Data Science, Python, and Machine Learning**.
-
-### 🐍 Python Full Stack Developer
-
-**Hostcarts Digital**
-`May 2024 – January 2025`
-
-Developed web applications and customized ERP solutions using **Python, Django, HTML, CSS, JavaScript, and Bootstrap**.
-
-### 🎨 Front-End Developer Intern
-
-**AllPro TechLabs**
-`December 2023 – April 2024`
-
-Worked on UI development using **React.js, Bootstrap, and JavaScript**.
 
 ---
 
