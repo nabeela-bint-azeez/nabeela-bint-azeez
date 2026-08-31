@@ -199,7 +199,7 @@ Participant
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nabeela-pp">
+<a href="[https://www.linkedin.com/in/nabeela-pp](https://www.linkedin.com/in/nabeelapp/)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
