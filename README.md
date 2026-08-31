@@ -6,12 +6,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Python+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/nabeela-bint-azeez">
     <img src="https://img.shields.io/github/followers/nabeela-bint-azeez?label=Followers&style=for-the-badge&logo=github" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nabeela-bint-azeez&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
-</p>
+</p> -->
 
 ---
 
